@@ -1,0 +1,2 @@
+# ProjetoFragmentEstatico
+Exemplo de fragmento
